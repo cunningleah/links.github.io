@@ -11,24 +11,6 @@ pb = pinboard.Pinboard(os.environ['PINBOARD_API'])
 
 def make_post(p, timestamp):
 
-    post_template = u"""---
-title: "{}"
-slug: {}
-date: {}
-category: {}
-external-url: {}
-hash: {}
-year: {}
-month: {}
-scheme: {}
-host: {}
-path: {}
-{}
----
-
-{}
-"""
-    
     url_parts = urlparse(p.url)
     if url_parts.query:
         qsl = parse_qsl(url_parts.query)
@@ -38,20 +20,40 @@ path: {}
     else:
         qstring = ''
 
-    return post_template.format(
-        p.description.replace('"', '\\"'),
-        slugify(p.description, max_length=70, word_boundary=True),
-        timestamp.strftime('%Y-%m-%d %H:%M:%S %z'),
-        ",".join(p.tags),
-        p.url,
-        p.hash,
-        timestamp.strftime('%Y'),
-        timestamp.strftime('%m'),
-        url_parts.scheme,
-        url_parts.netloc,
-        url_parts.path,
-        qstring,
-        p.extended.replace('{', '&#123;').replace('}', '&#125;'))
+    data = {
+        "title": p.description.replace('"', '\\"'),
+        "slug": slugify(p.description, max_length=70, word_boundary=True),
+        "date": timestamp.strftime('%Y-%m-%d %H:%M:%S %z'),
+        "category": ",".join(p.tags),
+        "external-url": p.url,
+        "hash": p.hash,
+        "year": timestamp.strftime('%Y'),
+        "month": timestamp.strftime('%m'),
+        "scheme": url_parts.scheme,
+        "host": url_parts.netloc,
+        "path": url_parts.path,
+        "qstring": qstring,
+        "body": p.extended.replace('{', '&#123;').replace('}', '&#125;')
+    }
+
+    return u"""---
+title: "{title}"
+slug: {slug}
+date: {date}
+category: {category}
+external-url: {external-url}
+hash: {hash}
+year: {year}
+month: {month}
+scheme: {scheme}
+host: {host}
+path: {path}
+{qstring}
+---
+
+{body}
+""".format(**data)
+    
 
 
 def write_file(p, timestamp):
