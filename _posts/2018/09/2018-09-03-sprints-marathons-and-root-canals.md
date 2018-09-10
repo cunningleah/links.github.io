@@ -2,7 +2,7 @@
 title: "Sprints, marathons and root canals"
 slug: sprints-marathons-and-root-canals
 date: 2018-09-03 20:28:02 -0500
-category: 
+category: _feature
 external-url: https://gojko.net/2018/08/30/sprints-marathons-root-canals.html
 hash: a1ece326f24274eebc04e4fbf09071cf
 year: 2018

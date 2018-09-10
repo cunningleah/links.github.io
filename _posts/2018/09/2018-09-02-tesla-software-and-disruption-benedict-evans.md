@@ -2,7 +2,7 @@
 title: "Tesla, software and disruption — Benedict Evans"
 slug: tesla-software-and-disruption-benedict-evans
 date: 2018-09-02 23:25:00 -0500
-category: 
+category: _feature
 external-url: https://www.ben-evans.com/benedictevans/2018/8/29/tesla-software-and-disruption
 hash: d24d1aac4295eba58c59494a10eef306
 year: 2018
