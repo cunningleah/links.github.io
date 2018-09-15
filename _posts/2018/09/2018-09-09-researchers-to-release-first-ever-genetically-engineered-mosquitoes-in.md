@@ -2,7 +2,7 @@
 title: "Researchers to release first-ever genetically engineered mosquitoes in Africa - STAT"
 slug: researchers-to-release-first-ever-genetically-engineered-mosquitoes-in
 date: 2018-09-09 08:09:12 -0500
-category: 
+category: _feature
 external-url: https://www.statnews.com/2018/09/05/release-genetically-engineered-mosquitoes-africa/
 hash: f1867ac0fe61195b4875dd2982c57cce
 year: 2018
