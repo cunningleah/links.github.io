@@ -13,7 +13,7 @@ path: /2018/09/21/google-suppresses-memo-revealing-plans-to-closely-track-search
 
 ---
 
-“Don’t be evil.”
+[“Don’t be evil.”](https://en.wikipedia.org/wiki/Don%27t_be_evil)
 
 > The memo, authored by a Google engineer who was asked to work on the project, disclosed that the search system, codenamed Dragonfly, would require users to log in to perform searches, track their location — and share the resulting history with a Chinese partner who would have “unilateral access” to the data.
 
