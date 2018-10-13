@@ -2,7 +2,7 @@
 title: "Manyverse"
 slug: manyverse
 date: 2018-09-27 00:17:21 -0500
-category: 
+category: _brief
 external-url: https://www.manyver.se/
 hash: e44ea896247d04591518549c980fb51d
 year: 2018

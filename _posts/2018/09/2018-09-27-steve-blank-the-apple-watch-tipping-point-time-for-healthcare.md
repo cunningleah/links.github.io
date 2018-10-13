@@ -2,7 +2,7 @@
 title: "Steve Blank The Apple Watch – Tipping Point Time for Healthcare"
 slug: steve-blank-the-apple-watch-tipping-point-time-for-healthcare
 date: 2018-09-27 00:18:19 -0500
-category: 
+category: _feature
 external-url: https://steveblank.com/2018/09/26/the-apple-watch-tipping-point-time-for-healthcare/
 hash: 1a240e51f6e82e722b2ee5a5bca70faf
 year: 2018

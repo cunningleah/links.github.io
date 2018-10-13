@@ -2,7 +2,7 @@
 title: "Safari Content Blocker Evaluations – 9/26/18 Edition – The Brooks Review"
 slug: safari-content-blocker-evaluations-9-26-18-edition-the-brooks-review
 date: 2018-09-27 00:20:18 -0500
-category: 
+category: _feature
 external-url: https://brooksreview.net/2018/09/safari-content-blocker-evaluations-92618-edition/
 hash: c4d1eb2ddbc3a417071f45bc3aa33dec
 year: 2018
