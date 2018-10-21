@@ -2,7 +2,7 @@
 title: "Why We Always Switch Productivity Methods Before They Stick, According To Science"
 slug: why-we-always-switch-productivity-methods-before-they-stick-according
 date: 2018-10-17 20:17:12 -0500
-category: 
+category: _feature
 external-url: https://blog.trello.com/how-to-stick-with-a-productivity-method
 hash: c662a4879e6747cb877b9e8f1426adf3
 year: 2018
