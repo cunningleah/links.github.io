@@ -1,5 +1,5 @@
 ---
-title: "Free Meeting Stats For Google Calendar and Office 365 calendar."
+title: "Free Meeting Stats For Google Calendar and Office 365 calendar"
 slug: free-meeting-stats-for-google-calendar-and-office-365-calendar
 date: 2018-10-20 21:50:16 -0500
 category: 
