@@ -2,7 +2,7 @@
 title: "Google Chrome’s Users Take a Back Seat to Its Bottom Line | Electronic Frontier Foundation"
 slug: google-chromes-users-take-a-back-seat-to-its-bottom-line-electronic
 date: 2018-11-04 14:08:51 -0600
-category: 
+category: _feature
 external-url: https://www.eff.org/deeplinks/2018/11/google-chromes-users-take-back-seat-its-bottom-line
 hash: ec6d966cc94bccd67d3928945241e472
 year: 2018
