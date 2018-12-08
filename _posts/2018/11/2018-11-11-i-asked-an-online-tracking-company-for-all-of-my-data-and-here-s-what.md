@@ -19,4 +19,4 @@ There have been a number of articles where people have gotten their personal dat
 
 There are hundreds of firms like this that sit behind every website you visit and track incredible amounts of data on everything you do. I would highlight that every URL can then be mined to generate even more insight into you.
 
-I block Quantcast and tens of thousands of other trackers on every browser I use with 1Blocker. I can’t recommend strongly enough that you should use a tool like 1Blocker. Surfing the web without privacy protection exposes you to incredible levels of surveillance.
+I block Quantcast and tens of thousands of other trackers on every browser I use with 1Blocker. I can’t recommend strongly enough that you should use a tool like 1Blocker. Surfing the web without privacy protection exposes you to incredible levels of surveillance. 🕵️‍♂️

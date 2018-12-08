@@ -13,4 +13,4 @@ path: /previews/building-your-color-palette/
 
 ---
 
-More realistic view on assembling a comprehensive color scheme.
+More realistic view on assembling a comprehensive color scheme. 🎨
