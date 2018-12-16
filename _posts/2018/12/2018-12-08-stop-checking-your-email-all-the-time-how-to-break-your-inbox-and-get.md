@@ -2,7 +2,7 @@
 title: "Stop Checking Your Email All The Time (How to Break Your Inbox Dependence And Get Real Work Done)"
 slug: stop-checking-your-email-all-the-time-how-to-break-your-inbox-and-get
 date: 2018-12-08 13:00:14 -0600
-category: 
+category: _feature
 external-url: https://medium.com/personal-growth/stop-checking-your-email-all-the-time-how-to-break-your-inbox-dependence-and-get-real-work-done-623d92e3dc39
 hash: 91d29aae1c09871af22fb88354ea71f2
 year: 2018

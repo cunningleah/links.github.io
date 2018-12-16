@@ -2,7 +2,7 @@
 title: "AlphaZero: Shedding new light on the grand games of chess, shogi and Go | DeepMind"
 slug: alphazero-shedding-new-light-on-the-grand-games-of-chess-shogi-and-go
 date: 2018-12-08 12:56:18 -0600
-category: 
+category: _feature
 external-url: https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/
 hash: 7eefbce3df5dd5c547b1406fce0ac050
 year: 2018
