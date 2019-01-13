@@ -2,9 +2,8 @@
 layout: null
 ---
 /* TEAM */
-Author: Jamie Thingelstad
-Site: https://thingelstad.com/
-Twitter: @thingles          
+Author: Leah Cunningham
+Site: http://www.cunningleah.com
 Location: Minnesota, United States
 
 /* SITE */

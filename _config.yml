@@ -1,20 +1,17 @@
 
 # Basic
-title: Link Thing
-description: Links by Jamie Thingelstad
+title: Links
+description: Links by Leah Cunningham
 author:
-  name: Jamie Thingelstad
-  twitter: thingles
+  name: Leah Cunningham
 
 social:
-  twitter:          thingles
-  github:           thingles
-  linkedin:         jthingelstad
-  email:            jamie@thingelstad.com
-  microblog:        jthingelstad
-  pinboard:         thingles
+  github:           cunningleah
+  linkedin:         leahcunningham
+  email:            leah@cunningleah.com
+  microblog:        leah.microblog.com
 
-url: https://links.thingelstad.com
+url: http://www.cunningleah.com/links
 baseurl: ""
 
 timezone: America/Chicago
@@ -28,9 +25,7 @@ paginate_path: /page:num/
 feed_posts:         50
 
 # SEO
-twitter:
-  username: thingles
-logo: /assets/logo/links-logo-grey-trans.png
+Logo: /assets/logo/links-logo-grey-trans.png
 lang: en_US
 
 markdown: kramdown
@@ -52,8 +47,7 @@ defaults:
   - scope:
       path:         ""
     values:
-      image:        /assets/logo/links-logo-grey-dark.png
-
+      image:        /assets/logo/links-logo-grey-trans.png
 
 exclude: ['README.md', 'tools']
 

@@ -3,6 +3,6 @@ layout: default
 title: About
 ---
 
-Welcome to my Link Thing!
+Welcome!
 
 [Colophon]({% link about/colophon.md %})
